@@ -4,13 +4,13 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/smjunaid-it/smjunaid-it/master/img/wave.gif" width="30">
 
-I am  __Syed Muhammad Junaid Hassan__, and I am a PHD student at [Universiti Teknologi Malaysia](https://www.utm.my). I work as an assistant Professor at [Balochistan University of Information Technology, Engineering, and Management Sciences](https://www.utm.my).
+I am  __Syed Muhammad Junaid Hassan__, and I am a PHD student at [Universiti Teknologi Malaysia](https://www.utm.my). I work as an assistant Professor at [Balochistan University of Information Technology, Engineering, and Management Sciences](https://www.buitms.edu.pk/).
 
 
 ### 🙌🏻 Connect with Me
 <p align="left">
-    <a href="https://github.com/smjunaid-it" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@smjunaid-it-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/syed-muhammad-junaid-hassan-47181871/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-smjunaid-it-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/syed-muhammad-junaid-hassan-47181871/"></a>
+    <a href="https://github.com/smjunaid-it" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@smjunaidit-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/syed-muhammad-junaid-hassan-47181871/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-smjunaidit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/syed-muhammad-junaid-hassan-47181871/"></a>
     <a href="mailto:smjunaid.it@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-smjunaid.it@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smjunaid.it@gmail.com"></a>
     <a href="https://www.researchgate.net/profile/Syed-Muhammad-Junaid-Hassan-2" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
     <a href="https://orcid.org/0000-0001-8634-7547" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
