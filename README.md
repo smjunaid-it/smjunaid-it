@@ -2,7 +2,7 @@
 ![GitHub Star](https://img.shields.io/github/stars/smjunaid-it?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsmjunaid-it&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-## Hi there! <img src="https://raw.githubusercontent.com/smjunaid-it/smjunaid-it/master/img/wave.gif" width="30">
+## Hi there! <img src="https://raw.githubusercontent.com/smjunaid-it/smjunaid-it/master/wave.gif" width="30">
 
 I am  __Syed Muhammad Junaid Hassan__, and I am a PHD student at [Universiti Teknologi Malaysia](https://www.utm.my). I work as an assistant Professor at [Balochistan University of Information Technology, Engineering, and Management Sciences](https://www.buitms.edu.pk/).
 
